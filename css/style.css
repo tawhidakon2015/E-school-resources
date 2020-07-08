@@ -1,0 +1,150 @@
+body{
+    margin: 0px auto;
+    padding: 0px; 
+}
+.bac{
+    background-color: #F0FFF0;
+}
+.container{
+    padding-bottom: 50px;
+}
+a{
+    color: black;
+    font-weight: bold;
+}
+.box-in{
+    background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+    padding: 12px 28px;
+    display: flex;
+    height: 50px;
+    font-family: sans-serif;
+}
+.box-in:hover{
+    color: white;
+    background-color: #06864d;
+}
+.sign-in{
+    border: 1px solid orange;
+}
+.logo-picture{
+    width: 150px;
+    margin-top: 20px;
+}
+.margin-top{
+   margin-top: 20px;
+}
+.paragraph-text{
+    padding: 20px 40px;
+}
+.paragraph-text h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.text-h6{
+    color: orange;
+}
+.text-p{
+    color: #6C6B6B;
+}
+.text-span{
+    color: #06864d;
+}
+.class-attented {
+    background: #F8FFFB;
+}
+.class-attented img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.class-attented h3{
+    text-align: center;
+    font-size: 20px;
+}
+.class-attented p{
+    text-align: center;
+    color: lightslategray;
+}
+.pic2 .a{
+    /* border: solid 1px #555; */
+    background-color: #eed;
+    box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+}
+
+.online-course{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.calendar img{
+    float: left;
+}
+.date-fixed{
+    margin-top: 15px;
+}
+.date-fixed p{
+    font-size: 12px;
+    font-weight: bold;
+}
+.left-pepole img{
+    float: left;
+}
+.card{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px lightgray;
+    margin-top: 40px;
+}
+
+
+.testimonial h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.testimonial{
+    width: 900px;
+    height: 200px;
+}
+.personal-detailes img{
+    float: left;
+}
+.personal-detailes p{
+    float: right;
+    width: 700px;
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer-bg{
+    background-color: #282531;
+    margin-top: 100px;
+}
+.r{
+    margin-top: 20px;
+}
+.list-design li{
+    list-style: none;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+.list-design li a{
+    color: lightgray;
+}
+.list-design p{
+    color: white;
+    padding: 50px 30px;
+}
+.list-design h4{
+    color: white;
+}
+.footer-finish{
+    color: white;
+    text-align: center;
+}
